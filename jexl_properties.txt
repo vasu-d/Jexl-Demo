@@ -1,0 +1,3 @@
+InputPath:/user/cloudera/input/avro/order_items
+PrimaryKey:order_item_id
+OutputPath:/user/cloudera/output/avro/order_items_jexl
